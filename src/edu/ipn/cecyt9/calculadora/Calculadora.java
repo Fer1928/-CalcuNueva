@@ -27,6 +27,7 @@ import javax.swing.border.EmptyBorder;
  */
 public class Calculadora extends JFrame {
 
+    
 	/**
 	 * generado
 	 */
